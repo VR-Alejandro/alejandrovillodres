@@ -19,6 +19,7 @@
 ## 📂 Proyectos personales
 
 🔧 Proyecto 1: Creación de servicios e imágenes usando Docker en entorno virtualizado Linux.
+
 🔧 Proyecto 2: Servidor DNS en entorno virtualizado Linux (en desarrollo)
 
 ---
